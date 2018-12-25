@@ -1,7 +1,5 @@
+/* Dies ist ein Testcode, bei den ich einiges nur ausprobieren werde */
+
 <?php
 echo "Test";
-echo "Dies ist ein kleiner Test";
-echo "Dies ist der drittes Test";
-echo "Vierter Test?!";
-echo "Fünfter Test!";
 ?>
